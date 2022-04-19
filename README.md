@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RAGHUL-R01
+- 👋 Hi, I’m Raghul
 - 👀 I’m interested in UI development
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on React JS
